@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make sure this file is processed by Tailwind CSS using PostCSS or the Tailwind CLI. 
+   If you see "Unknown at rule @tailwind", your build setup may be missing or misconfigured. */
